@@ -1,6 +1,6 @@
 {
   "name": "multi-event",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "create named event emitter servers with mux-demux",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
