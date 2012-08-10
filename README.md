@@ -1,4 +1,4 @@
-# multi-event [![build status][1]][2]
+# multi-event
 
 create named event emitter servers with mux-demux
 
