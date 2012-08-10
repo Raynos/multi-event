@@ -21,7 +21,9 @@
     "remote-events": "~1.1.0"
   },
   "devDependencies": {
-    "mux-demux-net": "0.0.2"
+    "mux-demux-net": "0.0.2",
+    "boot": "~0.6.1",
+    "browserify-server": "~0.2.0"
   },
   "licenses": [
     {
